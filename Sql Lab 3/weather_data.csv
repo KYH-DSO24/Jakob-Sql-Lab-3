@@ -1,0 +1,5 @@
+Date,Temperature,Humidity,IsIndoor
+2024-12-01,22.5,65,true
+2024-12-02,20.0,70,false
+2024-12-03,21.0,75,true
+2024-12-04,19.5,60,false
